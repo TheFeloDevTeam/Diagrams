@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T16:57:01.758Z" agent="5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36" etag="L32J2e_uk-2ye8sm3iSq" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T17:18:46.734Z" agent="5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36" etag="t50Ia8EnZucJB6kwG4NQ" version="14.1.2" type="github">
   <diagram id="PSGBPLNP3vqcPFXVVVa6" name="Page-1">
     <mxGraphModel dx="1422" dy="777" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -84,11 +84,11 @@
             <mxGeometry width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pRgdDCjZsWbTgBpw-M0u-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;" vertex="1" parent="UVWAx00YONSHc_Kubo9x-39">
+        <mxCell id="pRgdDCjZsWbTgBpw-M0u-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;" parent="UVWAx00YONSHc_Kubo9x-39" vertex="1">
           <mxGeometry y="120" width="150" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Discussions" link="https://github.com/TheFeloDevTeam/FeloFamilySite/discussions" id="pRgdDCjZsWbTgBpw-M0u-4">
-          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=10;" vertex="1" parent="pRgdDCjZsWbTgBpw-M0u-3">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=10;" parent="pRgdDCjZsWbTgBpw-M0u-3" vertex="1">
             <mxGeometry width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -281,6 +281,11 @@
         <UserObject label="Vidéos" link="https://github.com/orgs/TheFeloDevTeam/projects/33" id="3">
           <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=10;spacing=4;" parent="2" vertex="1">
             <mxGeometry width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://app.diagrams.net/" id="ILwfKva_-4gF-brwZ0h8-3">
+          <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.drawio2;fillColor=#2174CE;gradientColor=#134277;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="1130" y="380" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
